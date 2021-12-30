@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.nezzy.xyz/categories/</loc>
-  </url><url>
     <loc>https://blog.nezzy.xyz/</loc>
+    <lastmod>2021-12-30T15:38:53-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.nezzy.xyz/posts/</loc>
+    <lastmod>2021-12-30T15:38:53-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.nezzy.xyz/posts/test/</loc>
+    <lastmod>2021-12-30T15:38:53-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.nezzy.xyz/categories/</loc>
   </url><url>
     <loc>https://blog.nezzy.xyz/tags/</loc>
   </url>
