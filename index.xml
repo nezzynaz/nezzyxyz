@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nezzy&#39;s Blog (Impromptu Name)</title>
+    <title>Nezzy.xyz</title>
     <link>https://blog.nezzy.xyz/</link>
-    <description>Recent content on Nezzy&#39;s Blog (Impromptu Name)</description>
+    <description>Recent content on Nezzy.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 15:38:53 -0600</lastBuildDate><atom:link href="https://blog.nezzy.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 19:55:22 -0600</lastBuildDate><atom:link href="https://blog.nezzy.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://blog.nezzy.xyz/posts/test/</link>
-      <pubDate>Thu, 30 Dec 2021 15:38:53 -0600</pubDate>
+      <title>Test Post</title>
+      <link>https://blog.nezzy.xyz/posts/helloworld/</link>
+      <pubDate>Thu, 30 Dec 2021 19:55:22 -0600</pubDate>
       
-      <guid>https://blog.nezzy.xyz/posts/test/</guid>
-      <description>Is this where someone writes hello world?</description>
+      <guid>https://blog.nezzy.xyz/posts/helloworld/</guid>
+      <description>Test Post Testing things
+Wah </description>
     </item>
+    
+    
     
   </channel>
 </rss>
