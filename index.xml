@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nezzy.xyz</title>
-    <link>https://blog.nezzy.xyz/</link>
+    <link>https://www.nezzy.xyz/</link>
     <description>Recent content on Nezzy.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 18:29:43 -0600</lastBuildDate><atom:link href="https://blog.nezzy.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Dec 2021 18:29:43 -0600</lastBuildDate><atom:link href="https://www.nezzy.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My experience building a personal website</title>
-      <link>https://blog.nezzy.xyz/posts/firstwebsite/</link>
+      <link>https://www.nezzy.xyz/posts/firstwebsite/</link>
       <pubDate>Fri, 31 Dec 2021 18:29:43 -0600</pubDate>
       
-      <guid>https://blog.nezzy.xyz/posts/firstwebsite/</guid>
+      <guid>https://www.nezzy.xyz/posts/firstwebsite/</guid>
       <description>This post is very obviously a draft, and more just a collection of thoughts.
- After a long time of research I finally came around to building my own website. Well, two actually. This is a bit of commentary on how I went about building it and what I want to do with this site in the future.
+After a long time of research I finally came around to building my own website. Well, two actually. This is a bit of commentary on how I went about building it and what I want to do with this site in the future.
 My site is built on two different technologies. The frontpage of my site, nezzy.</description>
     </item>
     
