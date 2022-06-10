@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: nezzy.xyz/sitemap.xml
+Sitemap: https://nezzy.xyz/sitemap.xml
